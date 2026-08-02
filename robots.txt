@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-yeifys.suster123irr.site/sitemap.xml
